@@ -16,7 +16,7 @@ navigation_weight: 5
 - Sriraam Natarajan, UT Dallas, USA
 - Efi Tsamoura, Samsung Cambridge, UK
 
-This workshop is organised by the Interest Group in Neuro-Symbolic AI of The Alan Turing Institute. You can find more information about us and how to join the IG on our website [https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai). 
+This workshop is organised by the Interest Group in Neuro-Symbolic AI of The Alan Turing Institute. You can find more information about us and how to join the IG on our website ([https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai)). 
 
 
 # Program Committee [TBC]
