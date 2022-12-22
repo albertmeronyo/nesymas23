@@ -8,12 +8,9 @@ navigation_weight: 3
 
 # Dates
 
-Workshop papers submissions - 6 February, 2023 - 23:59 AOE
+All deadlines are 23:59 AoE.
 
-Notification                - 6 March, 2023
-
-Camera Ready Submission     - 20 March, 2023
-
-Final program published     - 31 March, 2023
-
-Workshop Day                - 1 or 2 May, 2023
+- Paper submission deadline:                 30 January 2023
+- Paper acceptance notification:             13 March 2023
+- Call for participation and program published:     3 April 2023
+- Workshop:                            29 or 30 May, 2023
