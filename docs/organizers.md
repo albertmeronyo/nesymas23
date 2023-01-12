@@ -21,6 +21,9 @@ This workshop is organised by the Interest Group in Neuro-Symbolic AI of The Ala
 
 # Program Committee [TBC]
 
+- Erman Acar (University of Amsterdam)
+- Ziyan Wang (King's College London)
+- Xingzhou Lou (Institute of Automation, Chinese Academy of Sciences)
 - Devendra Singh Dhami (Hessian Center for AI (hessian.AI) and TU DarmstadtI) 
 - Aaron Eberhart (Kansas State University)
 - Christina Winkler (TU München)
@@ -40,3 +43,4 @@ This workshop is organised by the Interest Group in Neuro-Symbolic AI of The Ala
 - Bei Peng (University of Liverpool)
 - Louise Dennis (University of Manchester)
 - Andre Freitas (Idiap Research Institute, Switzerland and University of Manchester, UK)
+- Carmine Ventre (King's College London)
