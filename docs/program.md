@@ -8,7 +8,7 @@ navigation_weight: 4
 
 # Programme
 
-The workshop will take place on Tuesday, May 30 2023 in the afternoon session of the AAMAS conferenc, from 2pm to 6.30pm. See https://aamas2023.soton.ac.uk/program/detailed-program/
+The workshop will take place on Tuesday, May 30 2023 in the afternoon session of the [AAMAS conference](https://aamas2023.soton.ac.uk/program/detailed-program/), from 2pm to 6.30pm. See 
 
 Accepted papers:
 
