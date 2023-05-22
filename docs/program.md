@@ -20,5 +20,5 @@ Tenative programme:
 |    | Chentian Jiang, Nan Rosemary Ke and Hado van Hasselt. [Learning How to Infer Partial MDPs for In-Context Adaptation and Exploration](https://arxiv.org/abs/2302.04250) |
 |    | Vedran Galetic and Alistair Nottle. "Flexible and Inherently Comprehensible Knowledge Representation for Data-Efficient Learning and Trustworthy Human-Machine Teaming in Manufacturing Environments" |
 |    | Yexiang Xue, Maxwell Jacobson and Nan Jiang. "Embedding Constraint Reasoning in Structural Prediction, Content Generation and Imitation Learning" |
-|    | Louise Dennis, Marie Farrell and Michael Fisher. "Developing Multi-Agent Systems with Degrees of Neuro-Symbolic Integration" (position paper) |
+|    | Louise Dennis, Marie Farrell and Michael Fisher. [Developing Multi-Agent Systems with Degrees of Neuro-Symbolic Integration](https://arxiv.org/abs/2305.11534) (position paper) |
 | 15:45 | Coffee break |
