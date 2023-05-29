@@ -19,28 +19,17 @@ navigation_weight: 5
 This workshop is organised by the Interest Group in Neuro-Symbolic AI of The Alan Turing Institute. You can find more information about us and how to join the IG on our website ([https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai](https://www.turing.ac.uk/research/interest-groups/neuro-symbolic-ai)). 
 
 
-# Program Committee [TBC]
+# Program Committee
 
 - Erman Acar (University of Amsterdam)
-- Ziyan Wang (King's College London)
 - Xingzhou Lou (Institute of Automation, Chinese Academy of Sciences)
-- Devendra Singh Dhami (Hessian Center for AI (hessian.AI) and TU DarmstadtI) 
-- Aaron Eberhart (Kansas State University)
-- Christina Winkler (TU München)
-- Thomas Kipf (Google Brain)
-- Robert Peharz (TU Graz)
-- Kristian Kersting (Hessian Center for AI (hessian.AI), DFKI and TU DarmstadtI) 
-- Francesca Rossi (IBM Research)
-- Guy Van den Broeck (UCLA)
-- Zachary Lipton (CMU)
-- Ian Horrocks (University of Oxford)
-- Artur d'Avila Garcez (City, University of London)
-- Pascal Hitzler (Kansas State University)
-- Monireh Ebrahimi (lBM Watson San Francisco)
-- Petar Veličković (DeepMind, University of Cambridge)
-- Riccardo Tommasini (University of Lyon)
-- Varun Kanade (University of Oxford)
-- Bei Peng (University of Liverpool)
-- Louise Dennis (University of Manchester)
 - Andre Freitas (Idiap Research Institute, Switzerland and University of Manchester, UK)
+- Louise Dennis (University of Manchester)
 - Carmine Ventre (King's College London)
+- Aaron Eberhart (Kansas State University)
+- Devendra Singh Dhami (Hessian Center for AI (hessian.AI) and TU DarmstadtI) 
+- Bei Peng (University of Liverpool)
+- Ziyan Wang (King's College London)
+- Artur d'Avila Garcez (City, University of London)
+
+
